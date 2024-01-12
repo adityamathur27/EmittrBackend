@@ -1,0 +1,8 @@
+[{"id":1, "name":"string", "email":"string", "password":"string", "username":"string"},
+ {"id":3, "name":"string", "email":"string", "password":"string", "username":"string1"},
+ {"id":4, "name":"string", "email":"string", "password":"string", "username":"string12"},
+ {"id":6, "name":"jsjsa", "email":"uUU", "password":"376764", "username":"zusuzj"},
+ {"id":7, "name":"Aditya Mathur", "email":"adimathur272001@gmail.com", "password":"vijanshu", "username":"aditya_mathur2712"},
+ {"id":8, "name":"Aditya Mathur", "email":"adimathur272001@gmail.com", "password":"aditya", "username":"aditya "},
+ {"id":9, "name":"aditya", "email":"adimtyamathur", "password":"aditya", "username":"qwert"},
+ {"id":10, "name":"vijay", "email":"vijay5@gm", "password":"a", "username":"a"}]
